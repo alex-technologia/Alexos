@@ -1,0 +1,36 @@
+@import url('https://googleapis.com');
+body {
+    background-color: #db3030;
+}
+h1 {
+    font-family: 'Creepster', cursive;
+  font-size: 2rem;
+  color: #fff;
+  text-shadow: 
+    2px 2px 0px #000, 
+    -2px -2px 0px #000, 
+    2px -2px 0px #000, 
+    -2px 2px 0px #000, 
+    0px 8px 10px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.15em;
+  transform: skewX(-5deg);
+  text-align: center;
+}
+
+h2 {
+    color: #534e4ed0;
+    text-align: center;
+}
+
+li {
+    color : #a19a9ad0;
+    text-align: center;
+}
+
+img {
+    width:auto;
+    height:auto;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-left: 4px;
+}
